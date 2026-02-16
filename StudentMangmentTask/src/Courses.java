@@ -1,0 +1,21 @@
+public class Courses {
+    private int courseId;
+    private String courseName;
+
+    public Courses(int courseId, String courseName) {
+        this.courseId = courseId;
+        this.courseName = courseName;
+    }
+
+    public int getCourseId() {
+        return courseId;
+    }
+
+    public String getCourseName() {
+        return courseName;
+    }
+    @Override
+    public String toString() {
+        return "courseID=" + courseId + ", courseName=" + courseName ;
+    }
+}
