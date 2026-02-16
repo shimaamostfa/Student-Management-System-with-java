@@ -10,5 +10,5 @@
 
 ## · Methods to record and calculate grades for students.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/de3d3e4b-2103-4a11-86ad-e29e62961ab0" />
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c1012392-1641-4f3e-9472-8cc3e7a301e9" />
